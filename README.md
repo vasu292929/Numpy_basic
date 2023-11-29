@@ -1,1 +1,1 @@
-# Numpy_basic
+# Numpy_data_science
